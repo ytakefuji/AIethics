@@ -1,5 +1,5 @@
 # AIethics
-This is for undergraduate students in Musashino University.　Computational ethics is an important subject that spans across all disciplines in the world.
+This is for undergraduate students in Musashino University.　Computational ethics is an important subject that spans across all disciplines in the world. Computational ethics is not only for ethics researchers and philosophers, but for all citizens of the world.
 
 AI ethics or computational ethics is one of the most important studies in the AI era.
 

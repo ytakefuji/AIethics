@@ -43,7 +43,37 @@ This repository provides tools and resources for computing fairness in general. 
 * **Statistical bias** is a bias that occurs when the sample used to represent a population is not representative of the population as a whole. This can lead to inaccurate conclusions about the population.
 
 
-There are many metrics on fairness computation such as confusion metrics, difference to compute the difference between unprivileged and privileged subsets for an arbitrary metric, fairnes matrics such as statistical parity difference, disparate impact, equality opportunity difference, average odds difference, average odds error, class imbalance, KL divergence, conditional demographic disparity, between-group generalized entropy, generalized entropy index, generalized entropy error, Theil index, and consistency score.
+Sure, here is the beautified text for GitHub:
+
+
+## Fairness Metrics
+
+There are many metrics that can be used to measure fairness in machine learning models. These metrics can be divided into two categories: confusion metrics and fairness metrics.
+
+**Confusion metrics** measure the accuracy of a machine learning model. They do not take into account fairness.
+
+**Fairness metrics** measure the fairness of a machine learning model. They do this by comparing the performance of the model on different groups of people.
+
+Some common fairness metrics include:
+
+* **Statistical parity difference** measures the difference in the false positive rates of the model for different groups of people.
+* **Disparate impact** measures the difference in the true positive rates of the model for different groups of people.
+* **Equality of opportunity difference** measures the difference in the false negative rates of the model for different groups of people.
+* **Average odds difference** measures the difference in the average odds of being classified as positive for the model for different groups of people.
+* **Average odds error** measures the difference between the average odds of being classified as positive for the model for different groups of people and the average odds of being classified as positive in the population.
+* **Class imbalance** measures the difference in the number of positive examples in the training data for different groups of people.
+* **KL divergence** measures the difference in the distributions of predictions for different groups of people.
+* **Conditional demographic disparity** measures the difference in the distributions of predictions for different groups of people, conditional on a sensitive attribute.
+* **Between-group generalized entropy** measures the difference in the entropy of the distributions of predictions for different groups of people.
+* **Generalized entropy index** measures the difference in the entropy of the distributions of predictions for different groups of people, normalized by the total entropy.
+* **Generalized entropy error** measures the difference between the generalized entropy of the distributions of predictions for different groups of people and the generalized entropy of the predictions in the population.
+* **Theil index** measures the difference in the inequality of the distributions of predictions for different groups of people.
+* **Consistency score** measures the consistency of the predictions of the model with a fairness constraint.
+
+The choice of which fairness metric to use depends on the specific application. For example, if the goal is to ensure that the model does not discriminate against a particular group of people, then a metric such as statistical parity difference or disparate impact might be appropriate. If the goal is to ensure that the model has the same accuracy for all groups of people, then a metric such as equality of opportunity difference or average odds difference might be appropriate.
+
+It is important to note that no single fairness metric is perfect. Each metric has its own strengths and weaknesses. It is important to choose a metric that is appropriate for the specific application and that takes into account the specific biases that the model is trying to mitigate.
+
 
 
 

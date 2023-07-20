@@ -1,17 +1,32 @@
 # AIethics
-This is for undergraduate students in Musashino University.　Computational ethics is an important subject that spans across all disciplines in the world. Computational ethics is not only for ethics researchers and philosophers, but for all citizens of the world.
 
-AI ethics or computational ethics is one of the most important studies in the AI era.
+# Computational Ethics for Undergraduate Students in Musashino University
+
+## Introduction
+
+Computational ethics is an important subject that spans across all disciplines in the world. It is not only for ethics researchers and philosophers, but for all citizens of the world.
+
+In the AI era, AI ethics or computational ethics is one of the most important studies.
+
+## Fairness, Accountability, and Transparency
 
 In computational ethics, fairness, accountability, and transparency play three important roles.
 
-Executives of profit- and nonprofit organizations, as well as scientists and engineers, need to know about computational ethics.
+* **Fairness** refers to the impartial treatment of all individuals, regardless of their race, ethnicity, gender, religion, or other factors.
+* **Accountability** means that AI systems should be able to explain their decisions in a way that is understandable to humans.
+* **Transparency** means that AI systems should be open to inspection and audit.
 
-This repository provides tools and resources for computing fairness in general.
+## The Need for Computational Ethics
 
-To calculate fairness, a variety of biases must be accounted for. Bias is a tendency to favor or disfavor a person, group, thing, idea, or belief. Biases are often unfair or prejudicial, and they can be based on stereotypes rather than knowledge or experience. Biases can be learned or innate, and they can develop at any time in an individual's life.
+The need for computational ethics is growing as AI systems become more widely used. AI systems can make decisions that have a significant impact on people's lives, and it is important to ensure that these decisions are fair, accountable, and transparent.
 
-There are many types of biases: cognitive bias, prejudices, contextual bias, unconscious or implicit bias, statistical bias and others. 
+## Executives, Scientists, and Engineers Need to Know About Computational Ethics
+
+Executives, scientists, and engineers all need to know about computational ethics. Executives need to be aware of the ethical implications of AI systems and how to ensure that their companies are using AI in a responsible way. Scientists and engineers need to be aware of the potential for bias in AI systems and how to mitigate it.
+
+## This Repository
+
+This repository provides tools and resources for computing fairness in general. It includes code, data, and documentation that can be used to assess the fairness of AI systems.
 
 
 ## Types of bias

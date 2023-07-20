@@ -5,11 +5,12 @@ In computational ethics, fairness, accountability, and transparency play three i
 
 Executives of profit- and nonprofit organizations, as well as scientists and engineers, need to know about computational ethics.
 
-This repository focuses on fairness and computation of fairness.
+This repository provides tools and resources for computing fairness in general.
 
 To calculate fairness, a variety of biases must be accounted for.
 
-There are many metrics on fairness computation. 
+There are many metrics on fairness computation such as confusion metrics, difference to compute the difference between unprivileged and privileged subsets for an arbitrary metric, fairnes matrics such as statistical parity difference, disparate impact, equality opportunity difference, average odds difference, average odds error, class imbalance, KL divergence, conditional demographic disparity, between-group generalized entropy, generalized entropy index, generalized entropy error, Theil index, and consistency score.
+
 
 
 

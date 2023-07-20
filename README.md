@@ -97,7 +97,7 @@ from aif360.sklearn.datasets import fetch_adult
 
 
 <b>
-3.*** Use reweighing with Logistic-regression to investigate how values of fairness metrics are improved with or without reweighing.
+3.*** About the previous problem, use reweighing with Logistic-regression to investigate how values of fairness metrics are improved with or without reweighing.
 </b>
 
 

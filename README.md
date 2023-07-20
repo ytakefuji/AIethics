@@ -11,6 +11,8 @@ This repository provides tools and resources for computing fairness in general.
 
 To calculate fairness, a variety of biases must be accounted for. Bias is a tendency to favor or disfavor a person, group, thing, idea, or belief. Biases are often unfair or prejudicial, and they can be based on stereotypes rather than knowledge or experience. Biases can be learned or innate, and they can develop at any time in an individual's life.
 
+There are many types of bias: cognitive bias, prejudices, contextual bias, unconscious or implicit bias, Statistical bias and others.
+
 There are many metrics on fairness computation such as confusion metrics, difference to compute the difference between unprivileged and privileged subsets for an arbitrary metric, fairnes matrics such as statistical parity difference, disparate impact, equality opportunity difference, average odds difference, average odds error, class imbalance, KL divergence, conditional demographic disparity, between-group generalized entropy, generalized entropy index, generalized entropy error, Theil index, and consistency score.
 
 

@@ -75,6 +75,19 @@ The choice of which fairness metric to use depends on the specific application. 
 It is important to note that no single fairness metric is perfect. Each metric has its own strengths and weaknesses. It is important to choose a metric that is appropriate for the specific application and that takes into account the specific biases that the model is trying to mitigate.
 
 
+# Exercises
+
+<b>
+1. Breast cancer screening between 1994-2009 and 2007-2013. Use two sites and discuss false-positive and accuracy for comparison.
+</b>
+
+https://tools.bcsc-scc.org/dataexplorer/
+
+https://www.bcsc-research.org/statistics/diagnostic-performance-benchmarks/diagnostic-mammography-sensitivity-specificity
+
+Hint: pick 'Exam' for "Count by" and 'Screening mammogram classification' for "Screening mammography performance and cancer rates" for 1994-2009. Calculate false-positive and accuracy for 2007-2013.
+
+
 
 
 

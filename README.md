@@ -1,4 +1,6 @@
 # AIethics
+This is for undergraduate students in Musashino University.
+
 AI ethics or computational ethics is one of the most important studies in the AI era.
 
 In computational ethics, fairness, accountability, and transparency play three important roles.

@@ -11,7 +11,7 @@ This repository provides tools and resources for computing fairness in general.
 
 To calculate fairness, a variety of biases must be accounted for. Bias is a tendency to favor or disfavor a person, group, thing, idea, or belief. Biases are often unfair or prejudicial, and they can be based on stereotypes rather than knowledge or experience. Biases can be learned or innate, and they can develop at any time in an individual's life.
 
-There are many types of bias: cognitive bias, prejudices, contextual bias, unconscious or implicit bias, statistical bias and others. 
+There are many types of biases: cognitive bias, prejudices, contextual bias, unconscious or implicit bias, statistical bias and others. 
 
 Cognitive bias is a mental shortcut that can lead to inaccurate judgments. Some common cognitive biases include:
 

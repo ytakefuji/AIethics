@@ -78,7 +78,7 @@ It is important to note that no single fairness metric is perfect. Each metric h
 # Exercises
 
 <b>
-1.* Breast cancer screening between 1994-2009 and 2007-2013. Use two sites and discuss false-positive and accuracy with confusion matrix for comparison.
+1.* On confusion matrix with breast cancer screening datasets between 1994-2009 and 2007-2013. Use two sites and discuss false-positive and accuracy with confusion matrix for comparison.
 </b>
 
 https://tools.bcsc-scc.org/dataexplorer/
@@ -89,7 +89,7 @@ Hint: pick 'Exam' for "Count by" and 'Screening mammogram classification' for "S
 
 
 <b>
-2.** Use Logistic-regression and RandomForestClassifier to compare and compute fairness metrics such as disparate impact, average odds error, average_odds_difference, equal_opportunity_difference, between_group_generalized_entropy_error, conditional_demographic_disparity, theil_index, consistency_score, KL_divergence, statistical_parity_difference, and class_imbalance.
+2.** Use Logistic-regression and RandomForestClassifier to compare and compute fairness metrics such as disparate impact, average odds error, average_odds_difference, equal_opportunity_difference, between_group_generalized_entropy_error, conditional_demographic_disparity, theil_index, consistency_score, KL_divergence, statistical_parity_difference, and class_imbalance respectively.
 </b>
 Use fetch_adult to obtain the dataset with the following command.
 
@@ -97,8 +97,12 @@ from aif360.sklearn.datasets import fetch_adult
 
 
 <b>
-3.*** About the previous problem, use reweighing with Logistic-regression to investigate how values of fairness metrics are improved with or without reweighing.
+3.*** Reweighing Technology for Fairness
 </b>
+
+In the previous problem, Logistic-regression is used to predict fairness. Use reweighing technology with Logistic-regression whether it can improve the fairness of the model. Discuss the result with the same fairness matrics for comparison.
+Reweighing technology involves weighting the data. This can help to reduce bias in model.
+
 
 
 

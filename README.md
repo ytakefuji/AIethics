@@ -93,7 +93,7 @@ Hint: pick 'Exam' for "Count by" and 'Screening mammogram classification' for "S
 2.* Theil Index computing
 </b>
 
-Use fetch_adult dataset with the following command which contains sex column which is one of X columns and annual-income as y column. Calculate the Theil index for Male and Female and discuss fairness.
+Use fetch_adult dataset with the following command which contains sex column which is one of X columns and annual-income as y column. Calculate the Theil index for Male and Female respectively and discuss fairness.
 
 from aif360.sklearn.datasets import fetch_adult
 

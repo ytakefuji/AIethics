@@ -8,7 +8,7 @@ This is under review.
 
 Computational ethics is an important subject that spans across all disciplines in the world. It is not only for ethics researchers and philosophers, but for all citizens of the world.
 
-In the AI era, AI ethics or computational ethics is one of the most important studies.
+In the AI era, AI ethics or computational ethics is one of the most important studies for all.
 
 ## Fairness, Accountability, and Transparency
 

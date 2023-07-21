@@ -96,7 +96,7 @@ Hint: pick 'Exam' for "Count by" and 'Screening mammogram classification' for "S
 
 Use Logistic-regression and RandomForestClassifier to compare and compute fairness metrics such as disparate impact, average odds error, average_odds_difference, equal_opportunity_difference, between_group_generalized_entropy_error, conditional_demographic_disparity, theil_index, consistency_score, KL_divergence, statistical_parity_difference, and class_imbalance respectively.
 
-Use fetch_adult to obtain the dataset with the following command.
+Use fetch_adult dataset with the following command.
 
 from aif360.sklearn.datasets import fetch_adult
 

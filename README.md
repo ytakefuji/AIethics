@@ -89,9 +89,18 @@ https://www.bcsc-research.org/statistics/diagnostic-performance-benchmarks/diagn
 
 Hint: pick 'Exam' for "Count by" and 'Screening mammogram classification' for "Screening mammography performance and cancer rates" for 1994-2009. Calculate false-positive and accuracy for 2007-2013.
 
+<b>
+2.* Theil Index computing
+</b>
+
+Use fetch_adult dataset with the following command which contains sex column which is one of X columns and annual-income as y column. Calculate the Theil index for Male and Female and discuss fairness.
+
+from aif360.sklearn.datasets import fetch_adult
+
+X, y, sample_weight = fetch_adult()
 
 <b>
-2.** Fairness matrics computing
+3.** Fairness matrics computing
 </b>
 
 Use Logistic-regression and RandomForestClassifier to compare and compute fairness metrics such as disparate impact, average odds error, average_odds_difference, equal_opportunity_difference, between_group_generalized_entropy_error, conditional_demographic_disparity, theil_index, consistency_score, KL_divergence, statistical_parity_difference, and class_imbalance respectively.
@@ -102,7 +111,7 @@ from aif360.sklearn.datasets import fetch_adult
 
 
 <b>
-3.*** Reweighing Technology for Fairness
+4.*** Reweighing Technology for Fairness
 </b>
 
 In the previous problem, Logistic-regression is used to predict fairness. Use reweighing technology with Logistic-regression whether it can improve the fairness of the model. Discuss the result with the same fairness matrics for comparison.

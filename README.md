@@ -78,8 +78,10 @@ It is important to note that no single fairness metric is perfect. Each metric h
 # Exercises
 
 <b>
-1.* On confusion matrix with breast cancer screening datasets between 1994-2009 and 2007-2013. Use two sites and discuss false-positive and accuracy with confusion matrix for comparison.
+1.* Confusion matrix 
 </b>
+
+With breast cancer screening datasets between 1994-2009 and 2007-2013, use two sites for confusion matrix and discuss false-positive and accuracy with confusion matrix for comparison between two periods.
 
 https://tools.bcsc-scc.org/dataexplorer/
 

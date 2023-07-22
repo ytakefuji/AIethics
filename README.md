@@ -100,7 +100,14 @@ from aif360.sklearn.datasets import fetch_adult
 X, y, sample_weight = fetch_adult()
 
 <b>
-3.** Fairness matrics computing
+3.* Theil Index computing
+</b>
+
+Calcurate the Theil index on poor and rich using the same data in the previous problem. Discuss how income difference between poor and rich can influence the Theil index.
+
+
+<b>
+4.** Fairness matrics computing
 </b>
 
 Use Logistic-regression and RandomForestClassifier to compare and compute fairness metrics such as disparate impact, average odds error, average_odds_difference, equal_opportunity_difference, between_group_generalized_entropy_error, conditional_demographic_disparity, theil_index, consistency_score, KL_divergence, statistical_parity_difference, and class_imbalance respectively.
@@ -111,7 +118,7 @@ from aif360.sklearn.datasets import fetch_adult
 
 
 <b>
-4.*** Reweighing Technology for Fairness
+5.*** Reweighing Technology for Fairness
 </b>
 
 In the previous problem, Logistic-regression is used to predict fairness. Use reweighing technology with Logistic-regression whether it can improve the fairness of the model. Discuss the result with the same fairness matrics for comparison.

@@ -113,7 +113,7 @@ Calcurate the Theil index on poor and rich using the same data in the previous p
 
 Use Logistic-regression and RandomForestClassifier to compare and compute fairness metrics such as disparate impact, average odds error, average_odds_difference, equal_opportunity_difference, between_group_generalized_entropy_error, conditional_demographic_disparity, theil_index, consistency_score, KL_divergence, statistical_parity_difference, and class_imbalance respectively.
 
-Use fetch_adult dataset with the following command.
+Hints: Use fetch_adult dataset with the following command.
 
 from aif360.sklearn.datasets import fetch_adult
 

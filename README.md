@@ -137,12 +137,13 @@ Hints: Search for articles or web sites.
    
 </b>
 
-
+Hints: Find a good example over the Internet.
 
 <b>
 8.** Download the program for cartpole control with reinforcement learning. Replace the value at line 403 from 50 to 250. Ensure that the program produces the same result every time it is run by removing any reproducibility issues. Save the DQN neural network and the plotted figure. 
-
 </b>
+
+Hints: reinforcement_q_learning.py is downloadable:
 
 https://raw.githubusercontent.com/pytorch/tutorials/main/intermediate_source/reinforcement_q_learning.py
 ![image](https://github.com/ytakefuji/AIethics/assets/12127408/0adfd60f-5094-405b-bd7a-778df8dbc2f7)

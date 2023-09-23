@@ -125,6 +125,10 @@ from aif360.sklearn.datasets import fetch_adult
 In the previous problem, Logistic-regression is used to predict fairness. Use reweighing technology with Logistic-regression whether it can improve the fairness of the model. Discuss the result with the same fairness matrics for comparison.
 Reweighing technology involves weighting the data. This can help to reduce bias in model.
 
+<b>
+6.* Show why machine learning models are unable to attain flawless accuracy when utilizing traditional benchmark datasets. Your answer should be substantiated with evidence from scholarly, peer-reviewed articles.
+</b>
+
 
 
 

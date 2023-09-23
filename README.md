@@ -127,11 +127,14 @@ Reweighing technology involves weighting the data. This can help to reduce bias 
 
 <b>
 6.* Show why machine learning models are unable to attain flawless accuracy when utilizing traditional benchmark datasets. Your answer should be substantiated with evidence from scholarly, peer-reviewed articles.
+
 </b>
 
+Hints: Search for articles or web sites.
 
 <b>
 7.* Demonstrate and illustrate the application of a heuristic approach by setting specific seed values to address issues of reproducibility.
+   
 </b>
 
 

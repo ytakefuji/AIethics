@@ -145,3 +145,13 @@ Hints: Find a good example over the Internet.
 
 Hints: reinforcement_q_learning.py is downloadable: https://raw.githubusercontent.com/pytorch/tutorials/main/intermediate_source/reinforcement_q_learning.py
 
+<b>
+9.** Draw a graph based on Bayesian theory to calculate the probability of detecting someone is positive.
+</b>
+
+Assume that the probability of individual with disease is 0.065 and non-infected population probability is 0.935.
+
+Assume the true positive rate of testing is 0.991 and the false positive rate is 0.0005. Formulate the probability of detecting someone is positive: P(x,y) where x and y are the false positive rate and the true positive rate respectively.
+
+Hint: no hint
+

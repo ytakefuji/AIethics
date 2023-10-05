@@ -155,3 +155,9 @@ Assume the true positive rate of testing is 0.991 and the false positive rate is
 
 Hint: no hint
 
+
+<b>
+10.** Why has the hazardous asbestos material been used in the world, despite its known health risks?
+</b>
+
+Hint: no hint

@@ -3,7 +3,7 @@
 This is under review.
 
 
-# Computational Ethics for Undergraduate Students in Musashino University
+# Computational Ethics for Undergraduate Students in Musashino University 
 
 ## Introduction
 

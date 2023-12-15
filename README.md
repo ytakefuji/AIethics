@@ -161,3 +161,17 @@ Hint: no hint
 </b>
 
 Hint: no hint
+
+<b>
+11.* Example: A healthcare provider utilizes a blood test to determine whether or not patients will have a disease. 
+The results are the following:
+A total of 1,000 individuals had their blood tested.
+Four hundred twenty-seven individuals had positive findings, and 573 individuals had negative findings.
+Out of the 427 individuals who had positive findings, 369 of them had the disease.
+Out of the 573 individuals who had negative findings, 558 did not have the disease.
+Let’s calculate the sensitivity, specificity. We first can start with a 2X2 Table. The information above allows us to enter the values in the table below. Notice that values in blue cells were not provided, but we can get them based on the numbers above and the utilization of total cells. 
+The provider found that a total of 384 individuals actually had the disease, but how accurate was the blood test?
+
+</b>
+
+Hint: no hint
